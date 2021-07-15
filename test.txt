@@ -1,0 +1,12 @@
+test 3RFO 2RFD 1RSS
+test 3RFO 2RFD 1RFS
+solve 2RFO 1RSD
+load puzzle.txt as puzzle
+load puzzle1.txt as puzzle1
+load puzzle2.txt as puzzle2
+display puzzle
+display puzzle1
+display puzzle2
+solve puzzle
+solve puzzle1
+solve puzzle2
